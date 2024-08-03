@@ -18,7 +18,7 @@ class Nperfect
 			{
 				if(i%j==0)
 				{
-				 sum+=j;
+				 \\sum+=j;
 				}				
 			}
 			if(sum==i)
